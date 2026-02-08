@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **This repository is ARCHIVED.** > The code is kept for historical reference and will no longer receive updates or bug fixes.
+
+---
+
 <div align="center">
  <h1> Arch Install Script </h1>
 </div>
@@ -16,11 +21,6 @@
    It will automatically install all apps that I use frequently <br/>
    and their dependencies. <br/>
 </p>
-
-> [!WARNING]
-> I'm constantly changing something about my configs and I'm currently using mostly Hyprland,<br/>
-> so bare in mind that window managers like Qtile, XMonad or Awesome configs could be broken do to updates.
-
 </div>
 
 ## Usage
